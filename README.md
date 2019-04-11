@@ -28,3 +28,6 @@
 ### If you get hit by an angry face, you lose 1000 points and lose 1 point of health
 ### At the end of the game, you will gain an accuracy bonus based on your performance:
   * #### 100% accuracy is 1800 points
+  * #### 90% or more accuracy is 1400 points
+  * #### 80% or more accuracy is 800 points
+  * #### 50% or more accuracy is 400 points
