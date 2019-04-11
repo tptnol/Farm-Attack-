@@ -6,7 +6,6 @@
 
 # Controls
 
-
 ## Keyboard: 
 ### WASD to move and SPACE to shoot
 ### Start the game with space and press R to restart
@@ -14,3 +13,18 @@
 ## Xbox controller: 
 ### Left stick to move and A to shoot
 ### Start the game with the START button and restart with X
+
+# How The Game Works:
+
+## What You're Given:
+### You are a narwhal versus 32 angry monsters
+### Shoot them down!
+### Getting hit by an angry face will make you lose 1 health point (you have 5 health points total)
+### A sloth hug powerup will come around and give you full health
+
+## Points System:
+### Killing an enemy gives you 100 points
+### Hitting the Sloth Hug Power-up gives you 1000 points
+### If you get hit by an angry face, you lose 1000 points and lose 1 point of health
+### At the end of the game, you will gain an accuracy bonus based on your performance:
+  * #### 100% accuracy is 1800 points
