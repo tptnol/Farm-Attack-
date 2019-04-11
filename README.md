@@ -6,6 +6,9 @@
 
 ## Controls
 
-### You can play this with a keyboard using WASD to move and SPACE to shoot
 
-### You can also play this with an Xbox controller with the left stick to move and A to shoot
+### Keyboard: WASD to move and SPACE to shoot
+###         : Start the game with space and press R to restart
+
+### Xbox controller: left stick to move and A to shoot
+###                : Start the game with the START button and restart with X
