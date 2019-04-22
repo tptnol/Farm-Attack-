@@ -42,7 +42,9 @@
   * #### 90% or more accuracy is 1400 points
   * #### 80% or more accuracy is 800 points
   * #### 50% or more accuracy is 400 points
-  
+
+# GET THE MAX POINTS YOU CAN!
+
 #
 
 # Credits:
