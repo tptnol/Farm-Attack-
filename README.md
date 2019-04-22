@@ -6,7 +6,7 @@
 
 #
 
-# Controls
+# Controls:
 
 ## Keyboard: 
 ### WASD to move and SPACE to shoot
