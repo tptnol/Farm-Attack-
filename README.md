@@ -6,6 +6,10 @@
 
 #
 
+![farm_attack_photo](https://user-images.githubusercontent.com/49493276/56513653-23b5cb00-6501-11e9-95f7-66fb948fc7e8.png)
+
+#
+
 # Controls:
 
 ## Keyboard: 
@@ -26,10 +30,6 @@
 ### Shoot them down!
 ### Getting hit by an angry face will make you lose 1 health point (you have 5 health points total)
 ### A sloth hug powerup will come around and give you full health
-
-#
-
-![farm_attack_photo](https://user-images.githubusercontent.com/49493276/56513653-23b5cb00-6501-11e9-95f7-66fb948fc7e8.png)
 
 #
 
