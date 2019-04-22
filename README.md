@@ -22,7 +22,7 @@
 ### Getting hit by an angry face will make you lose 1 health point (you have 5 health points total)
 ### A sloth hug powerup will come around and give you full health
 
-![Farm Attack Sample](Farm-Attack-/farm_attack/Farm Attack Samples/farm_attack_photo.png)
+![farm_attack_photo](https://user-images.githubusercontent.com/49493276/56513653-23b5cb00-6501-11e9-95f7-66fb948fc7e8.png)
 
 ## Points System:
 ### Killing an enemy gives you 100 points
