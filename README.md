@@ -9,6 +9,7 @@
 ## Keyboard: 
 ### WASD to move and SPACE to shoot
 ### Start the game with space and press R to restart
+### Quit by pressing ESC
 
 ## Xbox controller: 
 ### Left stick to move and A to shoot
