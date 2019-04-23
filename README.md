@@ -4,11 +4,11 @@
 
 ### Mr. Scary Wizardface has used a spell to anger all the animals in the world, except for the graceful narwhal. You are the narwhal and it is up to you to spread love and cheer to return all the happiness back to the world.
 
-#
+
 
 ![farm_attack_photo](https://user-images.githubusercontent.com/49493276/56513653-23b5cb00-6501-11e9-95f7-66fb948fc7e8.png)
 
-#
+
 
 # Controls:
 
@@ -21,7 +21,7 @@
 ### Left stick to move and A to shoot
 ### Start the game with the START button and restart with X
 
-#
+
 
 # How The Game Works:
 
@@ -31,7 +31,7 @@
 ### Getting hit by an angry face will make you lose 1 health point (you have 5 health points total)
 ### A sloth hug powerup will come around and give you full health
 
-#
+
 
 ## Points System:
 ### Killing an enemy gives you 100 points
@@ -45,7 +45,7 @@
 
 # GET THE MAX POINTS YOU CAN!
 
-#
+
 
 # Credits:
 ### [Animal Art](https://kenney.nl/assets/animal-pack-redux)
